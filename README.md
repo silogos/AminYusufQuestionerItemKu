@@ -1,4 +1,4 @@
-# AminYusufQuestionerItemKu
+# QuestionerItemKu
 React Native Programmer at itemku (Five Jack)
 
 # Question #1
